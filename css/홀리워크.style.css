@@ -1,0 +1,64 @@
+.intro_img{
+    background-image: url('../photo/홀리워크.jpeg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 49vw;
+    width: 99.87%;
+    border: 1px solid;
+}
+
+h2 {
+   color: rgb(255, 255, 255); 
+   font-size: 80px;
+   margin-left: 2vw;
+   margin-top: 42vw;
+}
+
+.img1{
+    width: 200px;
+}
+
+.img2{
+    width: 400px;
+}
+
+.img3{
+    width: 300px;
+}
+
+
+.img_text {
+    font-size: 30px;
+}
+
+.img_text > a{
+    color: black;
+    text-decoration-line: none;
+}
+
+h3 {
+    margin-left: 7vw;
+}
+
+.intro > p {
+    margin-left: 7vw;
+    margin-right: 7vw;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.created{
+    display: flex;
+    text-align: center;
+    padding-left: 9vw;
+}
+
+.created_2{
+    margin: auto 10vw 0 10vw;
+    margin-top: auto;
+}
+
+.created_3{
+    margin-top: auto;
+}
